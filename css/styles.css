@@ -250,6 +250,14 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
 }
+.mark-instagram {
+  display: flex;
+  flex-shrink: 0;
+  fill: var(--IRIS, #4d5ae5);
+  margin: 12px;
+  align-items: center;
+  justify-content: center;
+}
 /* ============= OUR TEAM============= */
 /* ============= PORTFOLIO============= */
 .our-portfolio {
