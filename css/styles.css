@@ -83,8 +83,6 @@ img {
   list-style-type: none;
   display: flex;
   gap: 40px;
-  position: relative;
-  color: #404bbf;
 }
 .navigation-item {
   position: relative;
@@ -120,6 +118,7 @@ img {
   color: #2e2f42;
   padding-top: 24px;
   padding-bottom: 24px;
+  position: relative;
 }
 .social-list {
   list-style-type: none;
